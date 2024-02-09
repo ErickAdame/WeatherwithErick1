@@ -1,0 +1,11 @@
+,City,Today High,Tonight Low,Weather,Daily Precip,POP,Apparent T,Tomorrow High,Tomorrow Weather,Next Next High,Next Next Weather
+9,Brawley,78,46,few clouds,0.0,0,48,72,few clouds,68,few clouds
+8,Cleveland,47,39,broken clouds,0.0,0,26,54,broken clouds,59,light shower rain
+2,Denver,64,26,few clouds,0.0,0,31,42,mix snow/rain,39,light snow
+5,Louisville,55,41,few clouds,0.0,0,26,58,broken clouds,62,heavy rain
+4,Nashville,59,40,few clouds,0.0,0,28,63,broken clouds,66,heavy rain
+7,Pittsburgh,45,35,mix snow/rain,0.0,0,24,55,scattered clouds,60,overcast clouds
+6,Roanoke,57,36,few clouds,0.0,0,25,62,broken clouds,64,scattered clouds
+3,Saint Louis,63,46,few clouds,0.0,0,32,61,broken clouds,58,moderate rain
+1,San Francisco,59,45,light shower rain,0.15,65,51,58,few clouds,58,scattered clouds
+0,Seattle,48,38,light rain,0.21,70,38,43,broken clouds,46,mix snow/rain
